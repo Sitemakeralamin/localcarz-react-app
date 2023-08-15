@@ -12,9 +12,9 @@ function NewList() {
     return (
         <div>
           
-            <div class="trending-car mt-3">
-            <div class="mt-5">
-            <h3 className="trending-header"><i class="fa fa-car me-2 text-danger"></i>NEWLY LISTED CARS</h3>
+            <div className="trending-car mt-3">
+            <div className="mt-5">
+            <h3 className="trending-header"><i className="fa fa-car me-2 text-danger"></i>NEWLY LISTED CARS</h3>
             <p className="trending-para">Check out the newest listings to hit the market.</p>
             </div>
             <div className="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3">

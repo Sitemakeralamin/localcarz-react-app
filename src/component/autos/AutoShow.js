@@ -91,8 +91,8 @@ function AutoShow(auto) {
        
      </div>
 
-     <div class="card-footer">
-     <small class="text-muted">
+     <div className="card-footer">
+     <small className="text-muted">
        <div className='d-flex justify-content-between'>
         <div>
          <h6 className="text-success">{deller}</h6>

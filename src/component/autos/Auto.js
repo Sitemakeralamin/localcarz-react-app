@@ -131,17 +131,17 @@ function Auto() {
                 <p className='condition mt-4'> Price Filter</p> 
                 <div>
   <input className='price-filter' type="range" id="volume" name="volume" min="0" max="16" />
-  <label for="volume"></label>
+  <label htmlFor="volume"></label>
 </div>
                 <p className='condition'> Mileage Filter</p> 
                 <div>
   <input className='price-filter' type="range" id="volume" name="volume" min="0" max="11" />
-  <label for="volume"></label>
+  <label htmlFor="volume"></label>
 </div>
                 <p className='condition'> Year Filter</p> 
                 <div>
   <input className='price-filter' type="range" id="volume" name="volume" min="0" max="11" />
-  <label for="volume"></label>
+  <label htmlFor="volume"></label>
 </div>
 
 

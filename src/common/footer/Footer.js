@@ -4,22 +4,13 @@ import "./Footer.css";
 import award from "../../img/image004-removebg-preview.png"
 function Footer() {
     return (
-        <div>
-            <div className="container-fluid p-0 mt-5">
-              
-         
-         <footer className="text-center bg-black text-lg-start text-white">
-         <div className="ms-5">
+        <div><div className="container-fluid p-0 mt-5"><footer className="text-center bg-black text-lg-start text-white"><div className="ms-5">
                 <h3 className="pt-3">ABOUT LOCALCARZ.COM®</h3>
                 <p>LocalCarz.com is an independent company that works side by side with consumers, sellers, and dealers for transparency and fairness in the marketplace.Local Carz Vehicle products are based only on information supplied to Local Carz. Local Carz does not have the complete history of every vehicle. Use the Local Carz search as one important tool, along with a vehicle inspection and test drive, to make a better decision about your next used car.</p>
-              </div>
-          
-           <div className="footer-container  p-4 pb-0">
-             
-             <section className="">
-              
-               <div className="row">
-                
+              </div>          
+           <div className="footer-container  p-4 pb-0">             
+             <section className="">              
+               <div className="row">                
                  <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
                  <h5 className="text-uppercase mb-4 font-weight-bold">ABOUT CLASSIFIEDS</h5>
                  <p>
@@ -165,14 +156,8 @@ function Footer() {
          </footer>
        
        </div>
-        </div>
-       
+        </div> 
  
-        
-        
-       
-
-
     )
 }
 

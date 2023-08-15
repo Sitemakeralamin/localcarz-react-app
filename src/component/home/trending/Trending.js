@@ -16,9 +16,9 @@ function Trending() {
         <div>
             
             
-            <div class="trending-car mt-3">
-            <div class="mt-5">
-            <h3 className="trending-header"><i class="fa fa-fire me-2 text-danger"></i>TRENDING CAR NEWS & EXPERT REVIEWS</h3>
+            <div className="trending-car mt-3">
+            <div className="mt-5">
+            <h3 className="trending-header"><i className="fa fa-fire me-2 text-danger"></i>TRENDING CAR NEWS & EXPERT REVIEWS</h3>
             <p className="trending-para">Stay informed with our expert, in-depth car reviews and breaking auto news.</p>
             </div>
             <div className="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3">
